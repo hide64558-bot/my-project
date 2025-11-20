@@ -178,7 +178,7 @@ height:570px;
   .fifth-page{
     display: inline-block;
     display: flex;
-    /* box-shadow: 0px 0px 10px royalblue; */
+  
   }
   .f-two{
     margin-top: 30px;
@@ -208,7 +208,7 @@ box-shadow: 0px 0px 20px royalblue;
   }
   .f-twoo img {
     height: 300px;
-    /* margin-top: 80px; */
+    
     border-radius: 15px;
   }
   .test{
@@ -224,9 +224,9 @@ box-shadow: 0px 0px 20px royalblue;
     display: inline-block;
     display: flex;
     gap: 80px;
-    /* margin-left: 50px; */
+ 
     width: 100%;     
- /* padding-left: 40px;           */
+          
   text-align: center;   
   background-color: black; 
   color: white;
@@ -407,16 +407,6 @@ box-shadow: 0px 0px 20px royalblue;
  }
  
  .main-div{
-  /* display: block;
-  margin-top: 200px;
-  width: 60%; height: 600px;
-  margin-left: 50px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start; 
-  gap: 20px; 
-  padding: 20px;
-  text-align: center; */
   display: flex;
     flex-direction: column;   
     gap: 195px;                
@@ -484,7 +474,7 @@ box-shadow: 0px 0px 20px royalblue;
  .jump img {
   max-width: 100%;
   width: 1000px !important;
-  /* border: 3px solid black; */
+  
 }
 
 .third-page .small {
@@ -493,9 +483,7 @@ box-shadow: 0px 0px 20px royalblue;
   display: flex;
   flex-direction: column;
   gap: 20px;
-  /* margin-top: 100px; */
-  /* border: 10px solid black; */
-  /* margin-left: 30px; */
+
 }
 
 .third-page .small button {
@@ -519,7 +507,7 @@ box-shadow: 0px 0px 20px royalblue;
 }
 
 .third-page .walid img {
-  width: 50px; /* icon size */
+  width: 50px; 
   height: 50px;
 }
 
@@ -557,7 +545,7 @@ box-shadow: 0px 0px 20px royalblue;
 
 }
 
-/* hr{width: 500px;} */
+
 .testi{
    margin-left: 90px;
   height: 100px;
@@ -574,7 +562,7 @@ box-shadow: 0px 0px 20px royalblue;
 .f-two{
    
    display: block;
-  /* justify-content: center;  */
+
 border: 5px solid black;
 height: 600px;
 max-width: 400px;
@@ -610,7 +598,7 @@ margin-left: -100px;}
 
 
 .footer > div {
-  flex: 1 1 200px;   /* space mile → wide, space kam → automatic neeche */
+  flex: 1 1 200px;   
   min-width: 180px;
 }
 
@@ -679,7 +667,7 @@ margin-left: -100px;}
 
     .nav-button .nav-icon::before,
     .nav-button .nav-icon::after {
-      content: '';
+      /* content: ''; */
       position: absolute;
       width: 100%;
       height: 3px;
@@ -728,7 +716,7 @@ margin-left: -100px;}
 .main-div .search {
   margin-top: 80px;
   width: 50%;
-  /* margin-left: ; */
+
 }
 .main-div img{
 margin-left: 100px;
@@ -768,7 +756,7 @@ margin-left: 100px;
  .jump img {
   max-width: 100%;
   width: 1000px !important;
-  /* border: 3px solid black; */
+  
 }
 
 .third-page .small {
@@ -818,7 +806,7 @@ margin-left: 100px;
   gap: 20px;               
   flex-wrap: wrap;        
   width: 450px;
-  /* box-sizing: border-box; */
+
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
@@ -837,7 +825,7 @@ margin-left: 100px;
 
 }
 
-/* hr{width: 500px;} */
+
 .testi{
    margin-left: 90px;
   height: 100px;
@@ -855,7 +843,7 @@ margin-left: 100px;
 .f-two{
    
    display: block;
-  /* justify-content: center;  */
+
 border: 5px solid black;
 height: 600px;
 max-width: 400px;
